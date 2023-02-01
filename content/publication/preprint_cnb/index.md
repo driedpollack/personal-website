@@ -25,7 +25,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: We consider a contextual combinatorial bandit problem where in each round a learning agent selects a subset of arms and receives feedback on the selected arms according to their score. The score of an arm is an unknown function of the arm's feature. Approximating this unknown score function with deep neural networks, we propose algorithms_:_ Combinatorial Neural UCB ($\texttt{CN-UCB}$) and Combinatorial Neural Thompson Sampling ($\texttt{CN-TS}$). We establish that both $\texttt{CN-UCB}$ and $\texttt{CN-TS}$ are provably statistically efficient achieving $\tilde{\mathcal{O}}(\sqrt{T})$ regret, where $T$ is the time horizon. For $\texttt{CN-TS}$, we adapt an optimistic sampling technique to ensure the optimism of the sampled combinatorial action. To the best of our knowledge, these are the first combinatorial neural bandit algorithms with regret performance guarantees. In particular, $\texttt{CN-TS}$ is the first Thompson sampling algorithm with the worst-case regret guarantees for the general contextual combinatorial bandit problem. The numerical experiments demonstrate the superior performances of our proposed algorithms.
+abstract: We consider a contextual combinatorial bandit problem where in each round a learning agent selects a subset of arms and receives feedback on the selected arms according to their score. The score of an arm is an unknown function of the arm's feature. Approximating this unknown score function with deep neural networks, we propose algorithms$:$ Combinatorial Neural UCB ($\texttt{CN-UCB}$) and Combinatorial Neural Thompson Sampling ($\texttt{CN-TS}$). We establish that both $\texttt{CN-UCB}$ and $\texttt{CN-TS}$ are provably statistically efficient achieving $\tilde{\mathcal{O}}(\sqrt{T})$ regret, where $T$ is the time horizon. For $\texttt{CN-TS}$, we adapt an optimistic sampling technique to ensure the optimism of the sampled combinatorial action. To the best of our knowledge, these are the first combinatorial neural bandit algorithms with regret performance guarantees. In particular, $\texttt{CN-TS}$ is the first Thompson sampling algorithm with the worst-case regret guarantees for the general contextual combinatorial bandit problem. The numerical experiments demonstrate the superior performances of our proposed algorithms.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -37,7 +37,7 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: 'publication/preprint_cnb/paper.pdf'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'
