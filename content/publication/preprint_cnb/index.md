@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "Combinatorial Neural Bandits"
 authors:
 - admin
 - Kyuwook Chai
