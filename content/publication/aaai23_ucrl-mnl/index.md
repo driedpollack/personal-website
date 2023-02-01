@@ -29,7 +29,7 @@ publication_types: ['1']
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: $H$
+abstract: We study model-based reinforcement learning (RL) for episodic Markov decision processes (MDP) whose transition probability is parametrized by an unknown transition core with features of state and action. Despite much recent progress in analyzing algorithms in the linear MDP setting, the understanding of more general transition models is very restrictive. In this paper, we establish a provably efficient RL algorithm for the MDP whose state transition is given by a multinomial logistic model. To balance the exploration-exploitation trade-off, we propose an upper confidence bound-based algorithm. We show that our proposed algorithm achieves $\tilde{\mathcal{O}}(d \sqrt{H^3 T})$ regret bound where $d$ is the dimension of the transition core, $H$ is the horizon, and $T$ is the total number of steps. To the best of our knowledge, this is the first model-based RL algorithm with multinomial logistic function approximation with provable guarantees. We also comprehensively evaluate our proposed algorithm numerically and show that it consistently outperforms the existing methods, hence achieving both provable efficiency and practical superior performance.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -44,7 +44,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'publication/aaai23_ucrl-mnl/2212.13540.pdf' # 'https://arxiv.org/pdf/2212.13540.pdf'
+url_pdf: 'https://arxiv.org/pdf/2212.13540.pdf'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_poster: 'publication/aaai23_ucrl-mnl/poster.pdf'
@@ -76,12 +76,12 @@ url_slides: 'publication/aaai23_ucrl-mnl/slides.pdf'
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
 Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+<!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
