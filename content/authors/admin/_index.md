@@ -39,7 +39,7 @@ education:
       institution: Seoul National University
       year: 2020 - current
     - course: MSc in Mathematics
-      institution: SungKyunKwan University
+      institution: Sungkyunkwan University
       year: 2016 - 2018
     - course: BSc in Mathematics
       institution: Kyungpook National University
