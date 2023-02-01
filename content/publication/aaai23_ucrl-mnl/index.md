@@ -27,7 +27,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication_short: To appear in *AAAI* 2023
 
 abstract: We study model-based reinforcement learning (RL) for episodic Markov decision processes (MDP) whose transition probability is parametrized by an unknown transition core with features of state and action. Despite much recent progress in analyzing algorithms in the linear MDP setting, the understanding of more general transition models is very restrictive. In this paper, we establish a provably efficient RL algorithm for the MDP whose state transition is given by a multinomial logistic model. To balance the exploration-exploitation trade-off, we propose an upper confidence bound-based algorithm. We show that our proposed algorithm achieves $\tilde{\mathcal{O}}(d \sqrt{H^3 T})$ regret bound where $d$ is the dimension of the transition core, $H$ is the horizon, and $T$ is the total number of steps. To the best of our knowledge, this is the first model-based RL algorithm with multinomial logistic function approximation with provable guarantees. We also comprehensively evaluate our proposed algorithm numerically and show that it consistently outperforms the existing methods, hence achieving both provable efficiency and practical superior performance.
 
