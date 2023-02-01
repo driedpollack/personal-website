@@ -206,7 +206,7 @@ sections:
   #     columns: '2'
   #     view: card
   - block: collection
-    id: publication
+    id: featured
     content:
       title: Recent Publications
       text: |-
