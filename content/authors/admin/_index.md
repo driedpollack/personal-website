@@ -34,7 +34,7 @@ interests:
 
 # Education to show in About widget
 education:
-  # courses:
+  courses:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
       year: 2012
@@ -52,7 +52,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'th.hwang@snu.ac.kr'
+    link: # 'th.hwang@snu.ac.kr'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -86,4 +86,5 @@ highlight_name: true
 ---
 
 I love Se-A and Hyoseon.
+
 {style="text-align: justify;"}
