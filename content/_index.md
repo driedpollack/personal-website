@@ -73,8 +73,8 @@ sections:
         - title: Research Assistant
           company: The Reserach Institute of Basic Science, Sungkyunkwan University
           # company_url: ''
-          # company_logo: org-x
-          location: California
+          company_logo: skku
+          location: Suwon, Republic of Korea
           date_start: '2018-09-01'
           date_end: '2020-02-28'
           # description: 
