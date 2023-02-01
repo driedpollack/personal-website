@@ -52,7 +52,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'th.hwang@snu.ac.kr'
+    link: (mailto:th.hwang@snu.ac.kr)
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
