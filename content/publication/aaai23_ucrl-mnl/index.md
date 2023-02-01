@@ -44,7 +44,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'publication/aaai23_ucrl-mnl/2212.13540.pdf' # 'https://arxiv.org/pdf/2212.13540.pdf'
+url_pdf: '[aaai 2023] ucrl-mnl/2212.13540.pdf' # 'https://arxiv.org/pdf/2212.13540.pdf'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_poster: ''
