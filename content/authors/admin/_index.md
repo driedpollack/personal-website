@@ -10,7 +10,7 @@ last_name: Hwang
 superuser: true
 
 # Role/position/tagline
-role: Ph.D Candidate
+role: Ph.D. candidate in Data Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -32,7 +32,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD Candidate
+    - course: Ph.D. candidate in Data Science
       institution: Seoul National University
       year: 2020 - current
     - course: MSc in Mathematics
