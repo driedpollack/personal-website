@@ -62,9 +62,9 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.co.kr/citations?user=iTrVCvAAAAAJ&hl    
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/driedpollack
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/driedpollack
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/
@@ -83,5 +83,6 @@ highlight_name: true
 ---
 
 I love Se-A and Hyoseon.
+To be filled later.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
