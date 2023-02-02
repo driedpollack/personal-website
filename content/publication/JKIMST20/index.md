@@ -1,26 +1,28 @@
 ---
-title: 'Deep Learning Aided Evaluation for Electromechanical Properties of Complexly Structured Polymer Nanocomposites'
+title: 'Estimation of Jamming Parameters based on Gaussian Kernel Function Networks'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Kyungmin Baek
   - admin
-  - Wonseok Lee
-  - Hayoung Chung
-  - Maenghyo Cho
+  - Rhee Man Kil
+  - Hyun Ku Lee
+  - Jung Ho Kim
+  - Jae Heon Ko
+  - Jeil Jo
+  - Junghoon Lee
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022-09-01T00:00:00Z'
+date: '2020-02-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-09-01T00:00:00Z'
+publishDate: '2020-02-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,10 +31,10 @@ publishDate: '2022-09-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: _Composites Science and Technology 228_ (2022)
-publication_short: _Compos Sci Technol_ (2022)
+publication: _Journal of the Korea Institute of Military Science and Technology 23.1_ (2020)
+publication_short: _Journal of the KIMST_ (2020)
 
-abstract: In the present work, two types of deep neural networks (DNNs) were employed to establish the structure–property relationship of polymer nanocomposites. The trained DNNs based on multiscale analysis results can not only overcome the limitations of the conventional clustering density-based model and multivariate regression models but also exhibit superior performance in evaluating the electromechanical properties of polypropylene matrix composites, wherein spherical SiC nanoparticles were randomly distributed and dispersed. A simple graph convolution network showed better capability than a complex artificial neural network, despite fewer features considered; this implies that the graph convolution network is more appropriate and user-friendly for evaluating the effect of nanoparticle distribution and agglomeration. In addition, the trained graph convolution network can effectively provide mechanical and electrical properties corresponding to large representative volume element (RVE) without a loss of accuracy. The present study demonstrates that deep learning techniques can be put to practical use for the design of next-generation polymer nanocomposite materials.
+abstract: Effective jamming in electronic warfare depends on proper jamming technique selection and jamming parameter estimation. For this purpose, this paper proposes a new method of estimating jamming parameters using Gaussian kernel function networks. In the proposed approach, a new method of determining the optimal structure and parameters of Gaussian kernel function networks is proposed. As a result, the proposed approach estimates the jamming parameters in a reliable manner and outperforms other methods such as the DNN(Deep Neural Network) and SVM(Support Vector Machine) estimation models.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -47,7 +49,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0266353822004031?casa_token=kqovo5HlZroAAAAA:zyGqPKuggG80IOjh73Ti89KhAZkCmrxufuIiR8yX40oA_3DEqk-oW3iupo7zFnx_RynOPCthZsEg'
+url_pdf: 'https://koreascience.kr/article/JAKO202010163249915.pdf'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: 'publication/aaai23_ucrl-mnl/poster.pdf'
