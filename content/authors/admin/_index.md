@@ -39,7 +39,7 @@ education:
       institution: Sungkyunkwan University
       year: 2016 - 2018
     - course: BSc in Mathematics
-      institution: Kyungpook National University
+      institution: [Kyungpook National University](https://www.knu.ac.kr/wbbs/wbbs/main/main.action)
       year: 2010 - 2016
 
 # Social/Academic Networking
