@@ -18,8 +18,8 @@ organizations:
     url: https://gsds.snu.ac.kr
   - name: Seoul National University
     url: https://www.snu.ac.kr/index.html
-  - name: mailto:th.hwang@snu.ac.kr
-
+  - name: th.hwang@snu.ac.kr
+    url: mailto:th.hwang@snu.ac.kr
 # Short bio (displayed in user profile at end of posts)
 bio: 
 #My research interests include __reinforcement learning__, __learning theory__, __statistical machine learning__ and their applications.
