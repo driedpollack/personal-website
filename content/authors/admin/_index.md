@@ -20,7 +20,8 @@ organizations:
     url: https://www.snu.ac.kr/index.html   
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include __reinforcement learning__, __learning theory__, __statistical machine learning__ and their applications.
+bio: 
+#My research interests include __reinforcement learning__, __learning theory__, __statistical machine learning__ and their applications.
 
 
 # Interests to show in About widget
