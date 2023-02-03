@@ -87,7 +87,7 @@ highlight_name: true
 Taehyun Hwang is a Ph.D. candidate in the [Graduate School of Data Science](https://gsds.snu.ac.kr) at [Seoul National University](https://www.snu.ac.kr/), under the supervision of Prof. [Min-hwan Oh](https://minoh.io).
 He received MS in Mathematics under the supervison of Prof. [Yongdo Lim](https://dblp.org/pid/25/3420.html) and Prof. [Rhee Man Kil](https://scholar.google.com/citations?user=dTiJInMAAAAJ&hl=en) from Sungkyunkwan University, and BS in Mathematics from Kyungpook National University.
 
-His research lie at the intersection of machine learning and decision making under uncertainty, including reinforcement learning, contextual bandits, and statistical machine learning.
+His research lies at the intersection of machine learning and decision making under uncertainty, including reinforcement learning, contextual bandits, and statistical machine learning.
 He is interested in extending mathematical principles and uncovering fundamental limits of machine learning algorithms.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
