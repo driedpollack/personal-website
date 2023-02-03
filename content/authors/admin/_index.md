@@ -82,7 +82,9 @@ email: ''
 highlight_name: true
 ---
 
-I love Se-A and Hyoseon.
-To be filled later.
+Taehyun Hwang is a Ph.D. candidate in the [Graduate School of Data Science](https://gsds.snu.ac.kr), at [Seoul National University](https://www.snu.ac.kr/). 
+His life is Se-A.
+
+
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
