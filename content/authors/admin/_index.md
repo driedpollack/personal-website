@@ -17,7 +17,8 @@ organizations:
   - name: Graduate School of Data Science
     url: https://gsds.snu.ac.kr
   - name: Seoul National University
-    url: https://www.snu.ac.kr/index.html   
+    url: https://www.snu.ac.kr/index.html
+  - name: mailto:th.hwang@snu.ac.kr
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
