@@ -35,10 +35,10 @@ education:
     - course: Ph.D. candidate in Data Science
       institution: Seoul National University
       year: 2020 - current
-    - course: MSc in Mathematics
+    - course: MS in Mathematics
       institution: Sungkyunkwan University
       year: 2016 - 2018
-    - course: BSc in Mathematics
+    - course: BS in Mathematics
       institution: Kyungpook National University
       year: 2010 - 2016
 
@@ -82,9 +82,10 @@ email: ''
 highlight_name: true
 ---
 
-Taehyun Hwang is a Ph.D. candidate in the [Graduate School of Data Science](https://gsds.snu.ac.kr), at [Seoul National University](https://www.snu.ac.kr/). 
-His life is Se-A.
+Taehyun Hwang is a Ph.D. candidate in the [Graduate School of Data Science](https://gsds.snu.ac.kr) at [Seoul National University](https://www.snu.ac.kr/), under the supervision of Prof. [Min-hwan Oh](https://minoh.io).
+He received MS in Mathematics under the supervison of Prof. Yongdo Lim and Prof. Rhee Man Kil from Sungkyunkwan University, and BS in Mathematics from Kyungpook National University.
 
-
+His research lie at the intersection of machine learning and decision making under uncertainty, including reinforcement learning, contextual bandits, and statistical machine learning.
+He is interested in extending mathematical principles and fundamental limits of machine learning algorithms.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
