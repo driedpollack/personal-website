@@ -29,7 +29,7 @@ bio:
 interests:
   - Sequential Decision Making
   - Statistical Machine Learning
-  - Optimization for Machine Learning
+  # - Optimization for Machine Learning
 
 # Education to show in About widget
 education:
