@@ -30,11 +30,11 @@ abstract: #We consider a contextual combinatorial bandit problem where in each r
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
+tags: []
 # - Source Themes
 featured: false
 
-links:
+# links:
 # - name: Custom Link
 #   url: http://example.org
 # url_pdf: 'publication/preprint_cnb/paper.pdf'
