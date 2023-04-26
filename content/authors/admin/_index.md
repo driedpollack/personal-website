@@ -36,7 +36,7 @@ education:
   courses:
     - course: Ph.D. candidate in Data Science
       institution: Seoul National University
-      year: 2020 - current
+      year: 2020 - Present
     - course: MS in Mathematics
       institution: Sungkyunkwan University
       year: 2016 - 2018
