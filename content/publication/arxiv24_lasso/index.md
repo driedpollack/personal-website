@@ -1,5 +1,5 @@
 ---
-title: "Combinatorial Neural Bandits"
+title: "Lasso Bandit with Compatibility Condition on Optimal Arm"
 authors:
 - Harin Lee
 - admin
