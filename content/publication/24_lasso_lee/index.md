@@ -19,11 +19,11 @@ publishDate: '2024-06-02T00:00:00Z' # "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: arXiv preprint
-publication_short:
+publication: _International Conference on Learning Representation_ (__ICLR__), 2025
+publication_short: _ICLR_ 2025
 
 abstract: We consider a stochastic sparse linear bandit problem where only a sparse subset of context features affects the expected reward function, i.e., the unknown reward parameter has sparse structure. In the existing Lasso bandit literature, the compatibility conditions together with additional diversity conditions on the context features are imposed to achieve regret bounds that only depend logarithmically on the ambient dimension $d$. In this paper, we demonstrate that even without the additional diversity assumptions, the compatibility condition _only on the optimal arm_ is sufficient to derive a regret bound that depends logarithmically on $d$, and our assumption is strictly weaker than those used in the lasso bandit literature under the single parameter setting. We propose an algorithm that adapts the forced-sampling technique and prove that the proposed algorithm achieves $\mathcal{O}(\text{poly}\log dT)$ regret under the margin condition. To our knowledge, the proposed algorithm requires the weakest assumptions among Lasso bandit algorithms under a single parameter setting that achieve $\mathcal{O}(\text{poly}\log dT)$ regret. Through the numerical experiments, we confirm the superior performance of our proposed algorithm.
 
