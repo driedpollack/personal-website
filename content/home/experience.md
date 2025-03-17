@@ -22,6 +22,11 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Postdoctoral Researcher
+    company: Graduate School of Data Science, Seoul National University
+    location: Seoul, Republic of Korea
+    date_start: '2025-03-01'
+    date_end: ''
   - title: Research Assistant
     company: The Reserach Institute of Basic Science, Sungkyunkwan University
     # company_url: ''
