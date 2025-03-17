@@ -10,7 +10,7 @@ last_name: Hwang
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral researcher
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
