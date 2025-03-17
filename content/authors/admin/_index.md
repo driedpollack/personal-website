@@ -34,7 +34,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. candidate in Data Science
+    - course: Ph.D. in Data Science
       institution: Seoul National University
       year: 2020 - 2025
     - course: MS in Mathematics
