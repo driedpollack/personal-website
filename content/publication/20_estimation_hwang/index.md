@@ -34,7 +34,8 @@ publication_types: ['2']
 publication: _Journal of the Korea Institute of Military Science and Technology 23.1_ (2020)
 publication_short: _Journal of the KIMST_ (2020)
 
-abstract: Effective jamming in electronic warfare depends on proper jamming technique selection and jamming parameter estimation. For this purpose, this paper proposes a new method of estimating jamming parameters using Gaussian kernel function networks. In the proposed approach, a new method of determining the optimal structure and parameters of Gaussian kernel function networks is proposed. As a result, the proposed approach estimates the jamming parameters in a reliable manner and outperforms other methods such as the DNN(Deep Neural Network) and SVM(Support Vector Machine) estimation models.
+abstract: dd
+# Effective jamming in electronic warfare depends on proper jamming technique selection and jamming parameter estimation. For this purpose, this paper proposes a new method of estimating jamming parameters using Gaussian kernel function networks. In the proposed approach, a new method of determining the optimal structure and parameters of Gaussian kernel function networks is proposed. As a result, the proposed approach estimates the jamming parameters in a reliable manner and outperforms other methods such as the DNN(Deep Neural Network) and SVM(Support Vector Machine) estimation models.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
