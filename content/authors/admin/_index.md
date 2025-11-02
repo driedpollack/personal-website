@@ -14,10 +14,10 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Graduate School of Data Science
-    url: https://gsds.snu.ac.kr
+  - name: Research Institute for Data Science
+    # url: https://dsri.snu.ac.kr
   - name: Seoul National University
-    url: https://www.snu.ac.kr/index.html
+    # url: https://www.snu.ac.kr/index.html
   - name: th.hwang@snu.ac.kr
     url: mailto:th.hwang@snu.ac.kr
 # Short bio (displayed in user profile at end of posts)
@@ -84,7 +84,7 @@ email: ''
 highlight_name: true
 ---
 
-Taehyun Hwang is a postdoctoral researcher at the [Graduate School of Data Science](https://gsds.snu.ac.kr) at Seoul National University, under the supervision of Prof. [Min-hwan Oh](https://minoh.io).
+Taehyun Hwang is a postdoctoral researcher at the [Research Institute for Data Science](https://dsri.snu.ac.kr) at Seoul National University, under the supervision of Prof. [Min-hwan Oh](https://minoh.io).
 He received his Ph.D. in Data Science from Seoul National University under the supervision of Prof. Min-hwan Oh, his M.S. in Mathematics from Sungkyunkwan University under the supervision of Prof. [Yongdo Lim](https://dblp.org/pid/25/3420.html) and Prof. [Rhee Man Kil](https://scholar.google.com/citations?user=dTiJInMAAAAJ&hl=en), and his B.S. in Mathematics from Kyungpook National University.
 
 His research focuses on the intersection of machine learning and decision-making under uncertainty, including reinforcement learning, contextual bandits, and statistical machine learning. He is particularly interested in extending mathematical principles and uncovering the fundamental limits of machine learning algorithms.
