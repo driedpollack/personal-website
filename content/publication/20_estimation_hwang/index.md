@@ -49,6 +49,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
+url: 'https://koreascience.kr/article/JAKO202010163249915.pdf'
 url_pdf: 'https://koreascience.kr/article/JAKO202010163249915.pdf'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
