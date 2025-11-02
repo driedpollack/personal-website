@@ -1,5 +1,5 @@
 ---
-title: '[Estimation of Jamming Parameters based on Gaussian Kernel Function Networks](https:naver.com)'
+title: '[Estimation of Jamming Parameters based on Gaussian Kernel Function Networks](https://naver.com)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -46,9 +46,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-links:
-- name: Custom Link
-  url: 'https://koreascience.kr/article/JAKO202010163249915.pdf'
+# links:
+# - name: Custom Link
+  # url: 'https://koreascience.kr/article/JAKO202010163249915.pdf'
 
 # url: 'https://koreascience.kr/article/JAKO202010163249915.pdf'
 url_pdf: 'https://koreascience.kr/article/JAKO202010163249915.pdf'
