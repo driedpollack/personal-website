@@ -1,5 +1,5 @@
 ---
-title: 'Estimation of Jamming Parameters based on Gaussian Kernel Function Networks'
+title: '[Estimation of Jamming Parameters based on Gaussian Kernel Function Networks](https:naver.com)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
