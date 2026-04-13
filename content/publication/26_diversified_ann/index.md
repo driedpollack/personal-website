@@ -1,15 +1,15 @@
 ---
-title: "Tractable Multinomial Logit Contextual Bandits with Non-Linear Utilities"
+title: "Diversified Multinomial Logit Contextual Bandits"
 authors:
+- Heesang Ann
 - admin
-- Dahngoon Kim
 - Min-hwan Oh
 # Author notes (optional)
 # author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2025-09-19T00:00:00Z'
+date: '2026-01-26T00:00:00Z'
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -22,10 +22,10 @@ date: '2025-09-19T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: _Advances in Neural Information Processing Systems 39_ (__NeurIPS__), 2025
-publication_short: _NeurIPS_ 2025
+publication: _International Conference on Learning Representation_ (__ICLR__), 2026
+publication_short: _ICLR_ 2026
 
-abstract: We study the \textit{multinomial logit} (MNL) contextual bandit problem for sequential assortment selection. Although most existing research assumes utility functions to be linear in item features, this linearity assumption restricts the modeling of intricate interactions between items and user preferences. A recent work~\citep{zhang2024contextual} has investigated general utility function classes, yet its method faces fundamental trade-offs between computational tractability and statistical efficiency. To address this limitation, we propose a computationally efficient algorithm for MNL contextual bandits leveraging the upper confidence bound principle, specifically designed for non-linear parametric utility functions, including those modeled by neural networks. Under a realizability assumption and a mild geometric condition on the utility function class, our algorithm achieves a regret bound of $\tilde{\mathcal{O}}(\sqrt{T})$, where $T$ denotes the total number of rounds. Our result establishes that sharp $\tilde{\mathcal{O}}(\sqrt{T})$-regret is attainable even with neural network-based utilities, without relying on strong assumptions such as neural tangent kernel approximations. To the best of our knowledge, our proposed method is the first computationally tractable algorithm for MNL contextual bandits with non-linear utilities that provably attains $\tilde{\mathcal{O}}(\sqrt{T})$ regret. Comprehensive numerical experiments validate the effectiveness of our approach, showing robust performance not only in realizable settings but also in scenarios with model misspecification.
+abstract: Existing contextual \textit{multinomial logit} (MNL) bandits model relevance-driven choice but ignore the potential benefits of within-assortment diversity, while submodular/combinatorial bandits encode diversity in rewards but lack structured choice probabilities. We bridge this gap with the \textit{diversified multinomial logit} (DMNL) contextual bandit, which augments MNL choice probabilities with a generally submodular diversity function, thereby formalizing the relevance--diversity trade-off within a single model. Incorporating diversity renders exact MNL assortment optimization intractable. We propose a \textit{white-box} UCB-based algorithm, $\texttt{OFU-DMNL}$, that constructs assortments item-wise by maximizing optimistic marginal gains, avoids black-box optimization oracles. We show that $\texttt{OFU-DMNL}$ achieves at least a $(1-\tfrac{1}{e+1})$-\textit{approximate} regret bound $\tilde{\mathcal{O}}\big(d \sqrt{T/K}\big)$, where $d$ is the context dimension, $K$ the maximum assortment size, and $T$ the horizon, and attains an improved approximation factor over standard submodular baselines.  Experiments demonstrate consistent gains and, relative to exhaustive enumeration, comparable regret with substantially lower runtime. Overall, DMNL bandits provide a principled and practical foundation for diversity-aware assortment optimization under uncertainty, and $\texttt{OFU-DMNL}$ offers a statistically and computationally efficient solution.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: 'https://openreview.net/pdf?id=kNoh1TuV4R'
+url_pdf: 'https://openreview.net/pdf?id=swwelQtLRn'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'
