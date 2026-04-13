@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Postdoctoral Researcher
-    company: Research Institute for Data Science, Seoul National University
+    company: Research Institute for Data Science, Seoul National University\\Graduate School of Data Science BK21, Seoul National University
     location: Seoul, Republic of Korea
     date_start: '2025-05-01'
     date_end: ''
