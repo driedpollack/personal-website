@@ -14,7 +14,7 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Research Institute for Data Science
+  # - name: Research Institute for Data Science
     # url: https://dsri.snu.ac.kr
   - name: Seoul National University
     # url: https://www.snu.ac.kr/index.html
