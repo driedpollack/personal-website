@@ -29,7 +29,7 @@ publication_types: ['1']
 publication: _International Conference on Machine Learning_ (__ICML__), 2026
 publication_short: _ICML_ 2026
 
-abstract: 
+abstract: We study generalized linear bandits with memory, an endogenous non-stationary setting in which rewards depend on past actions through a finite memory matrix. Building on prior work for linear models (Clerici et al., 2024), we show that the previously known $\tilde{\mathcal{O}}(T^{3/4})$ regret bound stems from a loose analysis, and we provide a sharpened analysis that recovers a $\tilde{\mathcal{O}}(\sqrt{T})$ regret rate in the linear case. We then extend this improvement to generalized linear models and propose a block-wise algorithm based on shrunken confidence bounds. Our algorithm achieves a regret bound of $\tilde{\mathcal{O}}\left(\sqrt{mT} + d\sqrt{T} + \sqrt{\kappa}\, d^{2} m^{1/4} T^{1/4} + \kappa d^{2} \right)$, where $d$ denotes the feature dimension, $m$ the memory length, and $\kappa$ a curvature parameter of the link function. This attains a $\sqrt{T}$-type rate despite nonlinear rewards and memory effects. To the best of our knowledge, this analysis provides a unified treatment of memory-induced non-stationarity and nonlinear link functions, while ensuring that the leading regret term is independent of the curvature of the link function. We conduct numerical experiments that are consistent with our theoretical findings.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -41,7 +41,7 @@ featured: false
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 'https://openreview.net/pdf?id=swwelQtLRn'
+url_pdf: 'https://openreview.net/pdf?id=DfZS0M8leJ'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'
