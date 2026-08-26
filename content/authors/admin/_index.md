@@ -63,7 +63,7 @@ social:
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
-    link: https://scholar.google.co.kr/citations?user=iTrVCvAAAAAJ&hl    
+    link: https://scholar.google.co.kr/citations?user=kSsy9cIAAAAJ&hl=en&authuser=2    
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/driedpollack
