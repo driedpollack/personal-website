@@ -1,0 +1,22 @@
+.news-list {
+  max-width: 900px;
+}
+
+.news-row {
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  gap: 1rem;
+  padding: 0.8rem 0;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.2);
+}
+
+.news-date {
+  font-weight: 700;
+}
+
+@media (max-width: 600px) {
+  .news-row {
+    grid-template-columns: 1fr;
+    gap: 0.25rem;
+  }
+}
