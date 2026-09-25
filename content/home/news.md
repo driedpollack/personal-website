@@ -16,11 +16,8 @@ design:
     <span class="news-date">Sep 2026</span>
     <span>3 papers accepted at <strong>NeurIPS 2026</strong></span>
   </div>
-</div>
-
-<div class="news-list">
   <div class="news-row">
     <span class="news-date">Sep 2026</span>
-    <span>Will serve as an Area Chair for ICLR 2026</strong></span>
+    <span>Will serve as an <strong>Area Chair</strong> for <strong>ICLR 2026</strong></span>
   </div>
 </div>
