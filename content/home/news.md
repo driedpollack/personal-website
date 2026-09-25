@@ -14,7 +14,7 @@ design:
 <div class="news-list">
   <div class="news-row">
     <span class="news-date">Sep 2026</span>
-    <span>3 papers accepted at <strong>NeurIPS 2026</strong></span>
+    <span><a href="./publication/">3 papers accepted at <strong>NeurIPS 2026</strong></a></span>
   </div>
   <div class="news-row">
     <span class="news-date">Sep 2026</span>
