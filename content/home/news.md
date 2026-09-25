@@ -23,5 +23,13 @@ design:
   <div class="news-row">
     <span class="news-date">Aug 2026</span>
     <span>Received the <strong>Best Paper Award</strong> at 2026 Korean Artificial Intelligence Association</span>
-  </div>  
+  </div>
+  <div class="news-row">
+    <span class="news-date">May 2026</span>
+    <span><a href="./publication/">1 paper accepted at <strong>ICML 2026</strong></a></span>
+  </div>    
+  <div class="news-row">
+    <span class="news-date">Jan 2026</span>
+    <span><a href="./publication/">1 paper accepted at <strong>ICLR 2026</strong></a></span>
+  </div>      
 </div>
