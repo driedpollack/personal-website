@@ -2,7 +2,7 @@
 title: "Topic-Aware Contextual Cascading Bandits"
 authors:
 - Hyunjun Choi
-- Taehyun Hwang
+- admin
 - Min-hwan Oh
 # Author notes (optional)
 author_notes:
