@@ -3,7 +3,7 @@ title: "Generalized Linear Bandits with Memory"
 authors:
 - Heesang Ann
 - Hyunjun Choi
-- Taehyun Hwang
+- admin
 - Younghoon Shin
 - Haeju Cheong
 - Min-hwan Oh

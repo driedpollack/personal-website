@@ -1,7 +1,7 @@
 ---
 title: "Block Optimism for Nonstationary Bandits with Latent Linear Dynamics"
 authors:
-- Taehyun Hwang
+- admin
 - Hyunjun Choi
 - Heesang Ann
 - Min-hwan Oh

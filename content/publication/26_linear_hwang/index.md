@@ -1,7 +1,7 @@
 ---
 title: "Linear Ensemble Sampling with Smaller Ensembles"
 authors:
-- Taehyun Hwang
+- admin
 - Min-hwan Oh
 # Author notes (optional)
 # author_notes:
