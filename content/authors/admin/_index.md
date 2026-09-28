@@ -40,10 +40,10 @@ education:
     - course: Ph.D. in Data Science
       institution: Seoul National University
       year: 2020 - 2025
-    - course: MS in Mathematics
+    - course: M.S. in Mathematics
       institution: Sungkyunkwan University
       year: 2016 - 2018
-    - course: BS in Mathematics
+    - course: B.S. in Mathematics
       institution: Kyungpook National University
       year: 2010 - 2016
 
