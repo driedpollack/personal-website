@@ -2,6 +2,10 @@
 title: Publications
 cms_exclude: true
 
+# Keep the original publication content type after renaming this section.
+cascade:
+  type: publication
+
 # View.
 #   1 = List
 #   2 = Compact

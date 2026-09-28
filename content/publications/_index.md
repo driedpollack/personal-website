@@ -3,7 +3,8 @@ title: Publications
 date: 2026-09-28
 ---
 
-<div class="publications-revised">
+<p class="publication-note">(<sup>*</sup> denotes equal contribution)</p>
+<div class="publications-list">
 
 <article class="publication-entry">
   <h2><a href="https://arxiv.org/pdf/2609.13954v1">Linear Ensemble Sampling with Smaller Ensembles</a></h2>
@@ -12,13 +13,13 @@ date: 2026-09-28
 </article>
 
 <article class="publication-entry">
-  <h2><a href="/publication/26_block_hwang/">Block Optimism for Nonstationary Bandits with Latent Linear Dynamics</a></h2>
+  <h2><a href="/publication_old/26_block_hwang/">Block Optimism for Nonstationary Bandits with Latent Linear Dynamics</a></h2>
   <p class="publication-authors"><strong>Taehyun Hwang</strong>, Hyunjun Choi, Heesang Ann, Min-hwan Oh</p>
   <p class="publication-venue">Neural Information Processing Systems (<strong>NeurIPS</strong>), 2026</p>
 </article>
 
 <article class="publication-entry">
-  <h2><a href="/publication/26_topic_choi/">Topic-Aware Contextual Cascading Bandits</a></h2>
+  <h2><a href="/publication_old/26_topic_choi/">Topic-Aware Contextual Cascading Bandits</a></h2>
   <p class="publication-authors">Hyunjun Choi, <strong>Taehyun Hwang</strong>, Min-hwan Oh</p>
   <p class="publication-venue">Neural Information Processing Systems (<strong>NeurIPS</strong>), 2026</p>
 </article>

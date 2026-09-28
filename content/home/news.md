@@ -14,7 +14,7 @@ design:
 <div class="news-list">
   <div class="news-row">
     <span class="news-date">Sep 2026</span>
-    <span><a href="./publication/">3 papers accepted at <strong>NeurIPS 2026</strong></a></span>
+    <span><a href="./publications/">3 papers accepted at <strong>NeurIPS 2026</strong></a></span>
   </div>
   <div class="news-row">
     <span class="news-date">Sep 2026</span>
@@ -26,10 +26,10 @@ design:
   </div>
   <div class="news-row">
     <span class="news-date">May 2026</span>
-    <span><a href="./publication/">1 paper accepted at <strong>ICML 2026</strong></a></span>
+    <span><a href="./publications/">1 paper accepted at <strong>ICML 2026</strong></a></span>
   </div>    
   <div class="news-row">
     <span class="news-date">Jan 2026</span>
-    <span><a href="./publication/">1 paper accepted at <strong>ICLR 2026</strong></a></span>
+    <span><a href="./publications/">1 paper accepted at <strong>ICLR 2026</strong></a></span>
   </div>      
 </div>
