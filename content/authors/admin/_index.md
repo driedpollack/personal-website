@@ -93,18 +93,7 @@ He received his Ph.D. in Data Science from Seoul National University under the s
 His research focuses on the intersection of machine learning and decision-making under uncertainty, including reinforcement learning, contextual bandits, and statistical machine learning. He is particularly interested in extending mathematical principles and uncovering the fundamental limits of machine learning algorithms.
 
 <div class="profile-details-grid">
-  <section class="profile-details-column">
-    <h3>Research Interests</h3>
-    <ul>
-      <li>Sequential Decision Making</li>
-      <li>Contextual Bandits</li>
-      <li>Reinforcement Learning</li>
-      <li>Neural Architectures</li>
-      <li>Statistical Machine Learning</li>
-    </ul>
-  </section>
-
-  <section class="profile-details-column">
+  <section class="profile-details-column profile-positions">
     <h3>Positions</h3>
     <div class="profile-detail-item">
       <div><i class="fas fa-briefcase" aria-hidden="true"></i><strong>Postdoctoral Researcher</strong></div>
@@ -116,6 +105,17 @@ His research focuses on the intersection of machine learning and decision-making
       <div class="profile-detail-meta">Sungkyunkwan University</div>
       <div class="profile-detail-meta">Sep. 2018 – Feb. 2020</div>
     </div>
+  </section>
+
+  <section class="profile-details-column">
+    <h3>Research Interests</h3>
+    <ul>
+      <li>Sequential Decision Making</li>
+      <li>Contextual Bandits</li>
+      <li>Reinforcement Learning</li>
+      <li>Neural Architectures</li>
+      <li>Statistical Machine Learning</li>
+    </ul>
   </section>
 
   <section class="profile-details-column">

@@ -114,16 +114,20 @@
   color: rgba(235, 235, 235, 0.7);
 }
 
-/* Vertically stacked profile details below the biography. */
+/* Positions followed by side-by-side interests and education. */
 #about .col-lg-8 > .row {
   display: none;
 }
 
 .profile-details-grid {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 2rem;
   margin-top: 2.25rem;
+}
+
+.profile-positions {
+  grid-column: 1 / -1;
 }
 
 .profile-details-column h3 {
@@ -160,6 +164,12 @@
 
 .dark .profile-detail-meta {
   color: rgba(235, 235, 235, 0.72);
+}
+
+@media (max-width: 767px) {
+  .profile-details-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 /* Simple publication list without search and filter controls. */
