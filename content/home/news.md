@@ -26,7 +26,7 @@ design:
   </div>
   <div class="news-row">
     <span class="news-date">May 2026</span>
-    <span>Recognized a <strong>Gold Reviewer<strong> at <strong>ICML 2026<strong></span>
+    <span>Recognized as a <strong>Gold Reviewer</strong> at <strong>ICML 2026</strong></span>
   </div>  
   <div class="news-row">
     <span class="news-date">May 2026</span>
