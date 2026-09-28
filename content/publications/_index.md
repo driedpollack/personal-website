@@ -3,7 +3,7 @@ title: Publications
 date: 2026-09-28
 ---
 
-<p class="publication-note">(<sup>*</sup> denotes equal contribution)</p>
+<p class="publications-equal-note">(<sup>*</sup> denotes equal contribution)</p>
 <div class="publications-list">
 
 <article class="publication-entry">
