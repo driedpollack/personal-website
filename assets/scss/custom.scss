@@ -36,6 +36,80 @@
   }
 }
 
+/* Academic activities on the homepage. */
+.academic-activities {
+  max-width: 1050px;
+}
+
+.academic-activities h3 {
+  margin: 0 0 1.25rem;
+  font-size: 1.25rem;
+  font-weight: 500;
+}
+
+.academic-activities .activity-list {
+  margin: 0;
+  padding-left: 1.5rem;
+}
+
+.academic-activities .activity-list li {
+  margin-bottom: 0.9rem;
+  line-height: 1.55;
+}
+
+.academic-activities .activity-role {
+  color: var(--color-primary-600);
+  font-style: italic;
+}
+
+.academic-activities .activities-more {
+  margin-top: 0.25rem;
+}
+
+.academic-activities .activities-more summary {
+  display: inline-block;
+  color: rgba(80, 80, 80, 0.72);
+  font-weight: 600;
+  cursor: pointer;
+  list-style: none;
+}
+
+.academic-activities .activities-more summary::-webkit-details-marker {
+  display: none;
+}
+
+.academic-activities .activities-more summary::before {
+  content: "\25B6";
+  display: inline-block;
+  margin-right: 0.45rem;
+  font-size: 0.75em;
+  transition: transform 0.2s ease;
+}
+
+.academic-activities .activities-more[open] summary::before {
+  transform: rotate(90deg);
+}
+
+.academic-activities .activities-less-label {
+  display: none;
+}
+
+.academic-activities .activities-more[open] .activities-more-label {
+  display: none;
+}
+
+.academic-activities .activities-more[open] .activities-less-label {
+  display: inline;
+}
+
+.academic-activities .activity-list-more {
+  margin-top: 1rem;
+}
+
+.dark .academic-activities .activities-more summary {
+  color: rgba(235, 235, 235, 0.7);
+}
+
 /* Simple publication list without search and filter controls. */
 .publications-equal-note {
   display: block;
