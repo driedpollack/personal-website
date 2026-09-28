@@ -35,3 +35,54 @@
     gap: 0.25rem;
   }
 }
+
+/* Simple publication list without search and filter controls. */
+.publications-revised {
+  max-width: 1050px;
+}
+
+.publications-revised .publication-entry {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.22);
+}
+
+.publications-revised .publication-entry:first-child {
+  padding-top: 0.5rem;
+}
+
+.publications-revised .publication-entry h2 {
+  margin: 0 0 0.55rem;
+  font-size: 1.25rem;
+  line-height: 1.4;
+  font-weight: 700;
+}
+
+.publications-revised .publication-entry h2 a,
+.publications-revised .publication-entry h2 a:visited {
+  color: inherit;
+  text-decoration: none;
+}
+
+.publications-revised .publication-entry h2 a:hover {
+  color: var(--color-primary-600);
+  text-decoration: underline;
+}
+
+.publications-revised .publication-authors,
+.publications-revised .publication-venue {
+  margin: 0.25rem 0 0;
+  line-height: 1.55;
+}
+
+.publications-revised .publication-authors {
+  color: rgba(60, 60, 60, 0.88);
+}
+
+.publications-revised .publication-venue {
+  color: rgba(60, 60, 60, 0.82);
+}
+
+.dark .publications-revised .publication-authors,
+.dark .publications-revised .publication-venue {
+  color: rgba(235, 235, 235, 0.82);
+}
