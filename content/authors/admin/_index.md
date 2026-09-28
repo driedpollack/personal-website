@@ -95,15 +95,15 @@ His research focuses on the intersection of machine learning and decision-making
 <div class="profile-details-grid">
   <section class="profile-details-column profile-positions">
     <h3>Positions</h3>
-    <div class="profile-detail-item">
-      <div><i class="fas fa-briefcase" aria-hidden="true"></i><strong>Postdoctoral Researcher</strong></div>
-      <div class="profile-detail-meta">Seoul National University</div>
-      <div class="profile-detail-meta">Mar. 2025 – Present</div>
-    </div>
-    <div class="profile-detail-item">
-      <div><i class="fas fa-briefcase" aria-hidden="true"></i><strong>Research Assistant</strong></div>
-      <div class="profile-detail-meta">Sungkyunkwan University</div>
-      <div class="profile-detail-meta">Sep. 2018 – Feb. 2020</div>
+    <div class="profile-positions-list">
+      <div class="profile-detail-item">
+        <div><i class="fas fa-briefcase" aria-hidden="true"></i><strong>Postdoctoral Researcher, Seoul National University</strong></div>
+        <div class="profile-detail-meta">Mar. 2025 – Present</div>
+      </div>
+      <div class="profile-detail-item">
+        <div><i class="fas fa-briefcase" aria-hidden="true"></i><strong>Research Assistant, Sungkyunkwan University</strong></div>
+        <div class="profile-detail-meta">Sep. 2018 – Feb. 2020</div>
+      </div>
     </div>
   </section>
 

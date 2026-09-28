@@ -130,6 +130,12 @@
   grid-column: 1 / -1;
 }
 
+.profile-positions-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 2rem;
+}
+
 .profile-details-column h3 {
   margin: 0 0 1rem;
   font-size: 1.2rem;
@@ -167,7 +173,8 @@
 }
 
 @media (max-width: 767px) {
-  .profile-details-grid {
+  .profile-details-grid,
+  .profile-positions-list {
     grid-template-columns: 1fr;
   }
 }
