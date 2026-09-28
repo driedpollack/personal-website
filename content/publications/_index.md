@@ -20,13 +20,13 @@ date: 2026-09-28
 
 <article class="publication-entry">
   <h2>Topic-Aware Contextual Cascading Bandits</h2>
-  <p class="publication-authors">Hyunjun Choi, <strong>Taehyun Hwang</strong>, Min-hwan Oh</p>
+  <p class="publication-authors">Hyunjun Choi<sup>*</sup>, <strong>Taehyun Hwang<sup>*</sup></strong>, Min-hwan Oh</p>
   <p class="publication-venue">Neural Information Processing Systems (<strong>NeurIPS</strong>), 2026</p>
 </article>
 
 <article class="publication-entry">
   <h2><a href="https://openreview.net/pdf?id=DfZS0M8leJ">Generalized Linear Bandits with Memory</a></h2>
-  <p class="publication-authors">Heesang Ann, Hyunjun Choi, <strong>Taehyun Hwang</strong>, Younghoon Shin, Haeju Cheong, Min-hwan Oh</p>
+  <p class="publication-authors">Heesang Ann<sup>*</sup>, Hyunjun Choi<sup>*</sup>, <strong>Taehyun Hwang<sup>*</sup></strong>, Younghoon Shin, Haeju Cheong, Min-hwan Oh</p>
   <p class="publication-venue">International Conference on Machine Learning (<strong>ICML</strong>), 2026</p>
 </article>
 
@@ -44,19 +44,19 @@ date: 2026-09-28
 
 <article class="publication-entry">
   <h2><a href="https://arxiv.org/abs/2406.00823">Lasso Bandit with Compatibility Condition on Optimal Arm</a></h2>
-  <p class="publication-authors">Harin Lee, <strong>Taehyun Hwang</strong>, Min-hwan Oh</p>
+  <p class="publication-authors">Harin Lee<sup>*</sup>, <strong>Taehyun Hwang<sup>*</sup></strong>, Min-hwan Oh</p>
   <p class="publication-venue">International Conference on Learning Representations (<strong>ICLR</strong>), 2025</p>
 </article>
 
 <article class="publication-entry">
   <h2><a href="https://arxiv.org/abs/2405.20165">Randomized Exploration for Reinforcement Learning with Multinomial Logistic Function Approximation</a></h2>
-  <p class="publication-authors">Wooseong Cho, <strong>Taehyun Hwang</strong>, Joongkyu Lee, Min-hwan Oh</p>
+  <p class="publication-authors">Wooseong Cho<sup>*</sup>, <strong>Taehyun Hwang<sup>*</sup></strong>, Joongkyu Lee, Min-hwan Oh</p>
   <p class="publication-venue">Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024</p>
 </article>
 
 <article class="publication-entry">
   <h2><a href="https://openreview.net/pdf?id=vDyKXNQrKL">Combinatorial Neural Bandits</a></h2>
-  <p class="publication-authors"><strong>Taehyun Hwang</strong>, Kyuwook Chai, Min-hwan Oh</p>
+  <p class="publication-authors"><strong>Taehyun Hwang</strong><sup>*</sup>, Kyuwook Chai<sup>*</sup>, Min-hwan Oh</p>
   <p class="publication-venue">International Conference on Machine Learning (<strong>ICML</strong>), 2023</p>
 </article>
 
