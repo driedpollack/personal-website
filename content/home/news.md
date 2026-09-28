@@ -26,10 +26,23 @@ design:
   </div>
   <div class="news-row">
     <span class="news-date">May 2026</span>
-    <span><a href="./publications/">1 paper accepted at <strong>ICML 2026</strong></a></span>
-  </div>    
+    <span>Recognized a <strong>Gold Reviewer<strong> at <strong>ICML 2026<strong></span>
+  </div>  
   <div class="news-row">
-    <span class="news-date">Jan 2026</span>
-    <span><a href="./publications/">1 paper accepted at <strong>ICLR 2026</strong></a></span>
-  </div>      
+    <span class="news-date">May 2026</span>
+    <span><a href="./publications/">1 paper accepted at <strong>ICML 2026</strong></a></span>
+  </div>
+
+  <details class="news-more">
+    <summary>
+      <span class="news-more-label">See more...</span>
+      <span class="news-less-label">See less</span>
+    </summary>
+    <div class="news-more-list">
+      <div class="news-row">
+        <span class="news-date">Jan 2026</span>
+        <span><a href="./publications/">1 paper accepted at <strong>ICLR 2026</strong></a></span>
+      </div>
+    </div>
+  </details>
 </div>
