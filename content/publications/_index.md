@@ -3,7 +3,7 @@ title: Publications
 date: 2026-09-28
 ---
 
-<p class="publications-equal-note">(* denotes equal contribution)</p>
+<p class="publication-note">(<sup>*</sup> denotes equal contribution)</p>
 <div class="publications-list">
 
 <article class="publication-entry">
@@ -13,20 +13,20 @@ date: 2026-09-28
 </article>
 
 <article class="publication-entry">
-  <h2><a href="/publication_old/26_block_hwang/">Block Optimism for Nonstationary Bandits with Latent Linear Dynamics</a></h2>
+  <h2>Block Optimism for Nonstationary Bandits with Latent Linear Dynamics</h2>
   <p class="publication-authors"><strong>Taehyun Hwang</strong>, Hyunjun Choi, Heesang Ann, Min-hwan Oh</p>
   <p class="publication-venue">Neural Information Processing Systems (<strong>NeurIPS</strong>), 2026</p>
 </article>
 
 <article class="publication-entry">
-  <h2><a href="/publication_old/26_topic_choi/">Topic-Aware Contextual Cascading Bandits</a></h2>
-  <p class="publication-authors">Hyunjun Choi<sup>*</sup>, <strong>Taehyun Hwang</strong><sup>*</sup>, Min-hwan Oh</p>
+  <h2>Topic-Aware Contextual Cascading Bandits</h2>
+  <p class="publication-authors">Hyunjun Choi, <strong>Taehyun Hwang</strong>, Min-hwan Oh</p>
   <p class="publication-venue">Neural Information Processing Systems (<strong>NeurIPS</strong>), 2026</p>
 </article>
 
 <article class="publication-entry">
   <h2><a href="https://openreview.net/pdf?id=DfZS0M8leJ">Generalized Linear Bandits with Memory</a></h2>
-  <p class="publication-authors">Heesang Ann<sup>*</sup>, Hyunjun Choi<sup>*</sup>, <strong>Taehyun Hwang</strong><sup>*</sup>, Younghoon Shin, Haeju Cheong, Min-hwan Oh</p>
+  <p class="publication-authors">Heesang Ann, Hyunjun Choi, <strong>Taehyun Hwang</strong>, Younghoon Shin, Haeju Cheong, Min-hwan Oh</p>
   <p class="publication-venue">International Conference on Machine Learning (<strong>ICML</strong>), 2026</p>
 </article>
 
@@ -39,24 +39,24 @@ date: 2026-09-28
 <article class="publication-entry">
   <h2><a href="https://openreview.net/pdf?id=kNoh1TuV4R">Tractable Multinomial Logit Contextual Bandits with Non-Linear Utilities</a></h2>
   <p class="publication-authors"><strong>Taehyun Hwang</strong>, Dahngoon Kim, Min-hwan Oh</p>
-  <p class="publication-venue">Advances in Neural Information Processing Systems 39 (<strong>NeurIPS</strong>), 2025</p>
+  <p class="publication-venue">Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025</p>
 </article>
 
 <article class="publication-entry">
   <h2><a href="https://arxiv.org/abs/2406.00823">Lasso Bandit with Compatibility Condition on Optimal Arm</a></h2>
-  <p class="publication-authors">Harin Lee<sup>*</sup>, <strong>Taehyun Hwang</strong><sup>*</sup>, Min-hwan Oh</p>
+  <p class="publication-authors">Harin Lee, <strong>Taehyun Hwang</strong>, Min-hwan Oh</p>
   <p class="publication-venue">International Conference on Learning Representations (<strong>ICLR</strong>), 2025</p>
 </article>
 
 <article class="publication-entry">
   <h2><a href="https://arxiv.org/abs/2405.20165">Randomized Exploration for Reinforcement Learning with Multinomial Logistic Function Approximation</a></h2>
-  <p class="publication-authors">Wooseong Cho<sup>*</sup>, <strong>Taehyun Hwang</strong><sup>*</sup>, Joongkyu Lee, Min-hwan Oh</p>
-  <p class="publication-venue">Advances in Neural Information Processing Systems 38 (<strong>NeurIPS</strong>), 2024</p>
+  <p class="publication-authors">Wooseong Cho, <strong>Taehyun Hwang</strong>, Joongkyu Lee, Min-hwan Oh</p>
+  <p class="publication-venue">Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024</p>
 </article>
 
 <article class="publication-entry">
   <h2><a href="https://openreview.net/pdf?id=vDyKXNQrKL">Combinatorial Neural Bandits</a></h2>
-  <p class="publication-authors"><strong>Taehyun Hwang</strong><sup>*</sup>, Kyuwook Chai<sup>*</sup>, Min-hwan Oh</p>
+  <p class="publication-authors"><strong>Taehyun Hwang</strong>, Kyuwook Chai, Min-hwan Oh</p>
   <p class="publication-venue">International Conference on Machine Learning (<strong>ICML</strong>), 2023</p>
 </article>
 
