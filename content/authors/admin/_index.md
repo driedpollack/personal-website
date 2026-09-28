@@ -109,12 +109,12 @@ His research focuses on the intersection of machine learning and decision-making
     <div class="profile-detail-item">
       <div><i class="fas fa-briefcase" aria-hidden="true"></i><strong>Postdoctoral Researcher</strong></div>
       <div class="profile-detail-meta">Seoul National University</div>
-      <div class="profile-detail-meta">2025–Present</div>
+      <div class="profile-detail-meta">Mar. 2025 – Present</div>
     </div>
     <div class="profile-detail-item">
       <div><i class="fas fa-briefcase" aria-hidden="true"></i><strong>Research Assistant</strong></div>
       <div class="profile-detail-meta">Sungkyunkwan University</div>
-      <div class="profile-detail-meta">2018–2020</div>
+      <div class="profile-detail-meta">Sep. 2018 – Feb. 2020</div>
     </div>
   </section>
 
@@ -123,17 +123,17 @@ His research focuses on the intersection of machine learning and decision-making
     <div class="profile-detail-item">
       <div><i class="fas fa-graduation-cap" aria-hidden="true"></i><strong>Ph.D. in Data Science</strong></div>
       <div class="profile-detail-meta">Seoul National University</div>
-      <div class="profile-detail-meta">2020–2025</div>
+      <div class="profile-detail-meta">Mar. 2020 – Feb. 2025</div>
     </div>
     <div class="profile-detail-item">
       <div><i class="fas fa-graduation-cap" aria-hidden="true"></i><strong>MS in Mathematics</strong></div>
       <div class="profile-detail-meta">Sungkyunkwan University</div>
-      <div class="profile-detail-meta">2016–2018</div>
+      <div class="profile-detail-meta">Sep. 2016 – Aug. 2018</div>
     </div>
     <div class="profile-detail-item">
       <div><i class="fas fa-graduation-cap" aria-hidden="true"></i><strong>BS in Mathematics</strong></div>
       <div class="profile-detail-meta">Kyungpook National University</div>
-      <div class="profile-detail-meta">2010–2016</div>
+      <div class="profile-detail-meta">Mar. 2010 – Aug. 2016</div>
     </div>
   </section>
 </div>
