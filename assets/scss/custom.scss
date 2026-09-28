@@ -114,6 +114,54 @@
   color: rgba(235, 235, 235, 0.7);
 }
 
+/* Vertically stacked profile details below the biography. */
+#about .col-lg-8 > .row {
+  display: none;
+}
+
+.profile-details-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  margin-top: 2.25rem;
+}
+
+.profile-details-column h3 {
+  margin: 0 0 1rem;
+  font-size: 1.2rem;
+}
+
+.profile-details-column ul {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.profile-details-column li {
+  margin-bottom: 0.35rem;
+}
+
+.profile-detail-item {
+  margin-bottom: 1rem;
+  line-height: 1.4;
+}
+
+.profile-detail-item i {
+  width: 1.5rem;
+  margin-right: 0.35rem;
+  text-align: center;
+}
+
+.profile-detail-meta {
+  margin-top: 0.15rem;
+  padding-left: 1.85rem;
+  color: rgba(80, 80, 80, 0.78);
+  font-size: 0.9em;
+}
+
+.dark .profile-detail-meta {
+  color: rgba(235, 235, 235, 0.72);
+}
+
 /* Simple publication list without search and filter controls. */
 .publications-equal-note {
   display: block;

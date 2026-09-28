@@ -28,6 +28,9 @@ bio:
 # Interests to show in About widget
 interests:
   - Sequential Decision Making
+  - Contextual Bandits
+  - Reinforcement Learning
+  - Neural Architectures
   - Statistical Machine Learning
   # - Optimization for Machine Learning
 
@@ -88,5 +91,51 @@ Taehyun Hwang is a postdoctoral researcher at Seoul National University, under t
 He received his Ph.D. in Data Science from Seoul National University under the supervision of Prof. Min-hwan Oh, his M.S. in Mathematics from Sungkyunkwan University under the supervision of Prof. [Yongdo Lim](https://dblp.org/pid/25/3420.html) and Prof. [Rhee Man Kil](https://scholar.google.com/citations?user=dTiJInMAAAAJ&hl=en), and his B.S. in Mathematics from Kyungpook National University.
 
 His research focuses on the intersection of machine learning and decision-making under uncertainty, including reinforcement learning, contextual bandits, and statistical machine learning. He is particularly interested in extending mathematical principles and uncovering the fundamental limits of machine learning algorithms.
+
+<div class="profile-details-grid">
+  <section class="profile-details-column">
+    <h3>Research Interests</h3>
+    <ul>
+      <li>Sequential Decision Making</li>
+      <li>Contextual Bandits</li>
+      <li>Reinforcement Learning</li>
+      <li>Neural Architectures</li>
+      <li>Statistical Machine Learning</li>
+    </ul>
+  </section>
+
+  <section class="profile-details-column">
+    <h3>Positions</h3>
+    <div class="profile-detail-item">
+      <div><i class="fas fa-briefcase" aria-hidden="true"></i><strong>Postdoctoral Researcher</strong></div>
+      <div class="profile-detail-meta">Seoul National University</div>
+      <div class="profile-detail-meta">2025–Present</div>
+    </div>
+    <div class="profile-detail-item">
+      <div><i class="fas fa-briefcase" aria-hidden="true"></i><strong>Research Assistant</strong></div>
+      <div class="profile-detail-meta">Sungkyunkwan University</div>
+      <div class="profile-detail-meta">2018–2020</div>
+    </div>
+  </section>
+
+  <section class="profile-details-column">
+    <h3>Education</h3>
+    <div class="profile-detail-item">
+      <div><i class="fas fa-graduation-cap" aria-hidden="true"></i><strong>Ph.D. in Data Science</strong></div>
+      <div class="profile-detail-meta">Seoul National University</div>
+      <div class="profile-detail-meta">2020–2025</div>
+    </div>
+    <div class="profile-detail-item">
+      <div><i class="fas fa-graduation-cap" aria-hidden="true"></i><strong>MS in Mathematics</strong></div>
+      <div class="profile-detail-meta">Sungkyunkwan University</div>
+      <div class="profile-detail-meta">2016–2018</div>
+    </div>
+    <div class="profile-detail-item">
+      <div><i class="fas fa-graduation-cap" aria-hidden="true"></i><strong>BS in Mathematics</strong></div>
+      <div class="profile-detail-meta">Kyungpook National University</div>
+      <div class="profile-detail-meta">2010–2016</div>
+    </div>
+  </section>
+</div>
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
