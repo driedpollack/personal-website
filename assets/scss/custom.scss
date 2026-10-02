@@ -99,6 +99,10 @@
   line-height: 1.55;
 }
 
+.academic-activities > .activity-list > li:last-child {
+  margin-bottom: 0;
+}
+
 .academic-activities .activity-role {
   color: rgb(0, 50, 128);
   font-style: italic;
@@ -112,6 +116,10 @@
   display: flex;
   flex-direction: column;
   margin-top: 0.25rem;
+}
+
+.academic-activities .activities-more[open] {
+  margin-top: 0;
 }
 
 .academic-activities .activities-more summary {
@@ -144,7 +152,11 @@
 
 .academic-activities .activity-list-more {
   order: 1;
-  margin-top: 1rem;
+  margin-top: 0;
+}
+
+.academic-activities .activity-list-more > li:first-child {
+  margin-top: -0.9rem;
 }
 
 .dark .academic-activities .activities-more summary {
