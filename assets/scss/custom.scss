@@ -31,6 +31,10 @@
   margin-top: 0.8rem;
 }
 
+.news-more[open] {
+  margin-top: 0;
+}
+
 .news-more summary {
   display: inline-block;
   color: rgba(80, 80, 80, 0.72);
@@ -61,7 +65,6 @@
 
 .news-more-list {
   order: 1;
-  margin-top: 0.8rem;
 }
 
 .dark .news-more summary {
@@ -106,6 +109,8 @@
 }
 
 .academic-activities .activities-more {
+  display: flex;
+  flex-direction: column;
   margin-top: 0.25rem;
 }
 
@@ -121,16 +126,8 @@
   display: none;
 }
 
-.academic-activities .activities-more summary::before {
-  content: "\25B6";
-  display: inline-block;
-  margin-right: 0.45rem;
-  font-size: 0.75em;
-  transition: transform 0.2s ease;
-}
-
-.academic-activities .activities-more[open] summary::before {
-  transform: rotate(90deg);
+.academic-activities .activities-more summary {
+  order: 2;
 }
 
 .academic-activities .activities-less-label {
@@ -146,6 +143,7 @@
 }
 
 .academic-activities .activity-list-more {
+  order: 1;
   margin-top: 1rem;
 }
 
