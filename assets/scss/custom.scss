@@ -90,17 +90,16 @@
 }
 
 .academic-activities .activity-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
   margin: 0;
   padding-left: 1.5rem;
 }
 
 .academic-activities .activity-list li {
-  margin-bottom: 0.9rem;
-  line-height: 1.55;
-}
-
-.academic-activities > .activity-list > li:last-child {
   margin-bottom: 0;
+  line-height: 1.55;
 }
 
 .academic-activities .activity-role {
@@ -153,10 +152,6 @@
 .academic-activities .activity-list-more {
   order: 1;
   margin-top: 0;
-}
-
-.academic-activities .activity-list-more > li:first-child {
-  margin-top: -0.9rem;
 }
 
 .dark .academic-activities .activities-more summary {
