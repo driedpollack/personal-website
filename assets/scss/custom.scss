@@ -26,6 +26,8 @@
 }
 
 .news-more {
+  display: flex;
+  flex-direction: column;
   margin-top: 0.8rem;
 }
 
@@ -41,16 +43,8 @@
   display: none;
 }
 
-.news-more summary::before {
-  content: "\25B6";
-  display: inline-block;
-  margin-right: 0.45rem;
-  font-size: 0.75em;
-  transition: transform 0.2s ease;
-}
-
-.news-more[open] summary::before {
-  transform: rotate(90deg);
+.news-more summary {
+  order: 2;
 }
 
 .news-less-label {
@@ -66,6 +60,7 @@
 }
 
 .news-more-list {
+  order: 1;
   margin-top: 0.8rem;
 }
 
