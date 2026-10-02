@@ -137,6 +137,10 @@
   order: 2;
 }
 
+.academic-activities .activities-more[open] summary {
+  margin-top: 0.9rem;
+}
+
 .academic-activities .activities-less-label {
   display: none;
 }
@@ -151,7 +155,7 @@
 
 .academic-activities .activity-list-more {
   order: 1;
-  margin-top: 0;
+  margin-top: 0.9rem;
 }
 
 .dark .academic-activities .activities-more summary {
