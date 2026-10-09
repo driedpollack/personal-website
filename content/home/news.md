@@ -30,7 +30,7 @@ design:
   </div>
   <div class="news-row">
     <span class="news-date">May 2026</span>
-    <span>Recognized as a <strong>Gold Reviewer</strong> at <strong>ICML 2026</strong></span>
+    <span><a href="https://icml.cc/Conferences/2026/ProgramCommittee#gold">Recognized as a <strong>Gold Reviewer</strong> at <strong>ICML 2026</strong></a></span>
   </div>  
 
   <details class="news-more">
