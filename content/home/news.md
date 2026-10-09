@@ -14,6 +14,10 @@ design:
 <div class="news-list">
   <div class="news-row">
     <span class="news-date">Sep 2026</span>
+    <span>Recognized as a <strong>Top Reviewer</strong> at <strong>NeurIPS 2026</strong></span>
+  </div>
+  <div class="news-row">
+    <span class="news-date">Sep 2026</span>
     <span><a href="./publications/">3 papers accepted at <strong>NeurIPS 2026</strong></a></span>
   </div>
   <div class="news-row">
