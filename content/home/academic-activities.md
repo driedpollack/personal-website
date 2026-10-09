@@ -16,7 +16,7 @@ design:
 
   <ul class="activity-list">
     <li><strong>2027</strong> — ICLR <span class="activity-role">(Area Chair)</span>, AAAI, AISTATS</li>
-    <li><strong>2026</strong> — ICML <span class="activity-role">(Gold Reviewer)</span>, NeurIPS, ICLR, AAAI, AISTATS</li>
+    <li><strong>2026</strong> — ICML <span class="activity-role">(Gold Reviewer)</span>, NeurIPS <span class="activity-role">(Top Reviewer)</span>, ICLR, AAAI, AISTATS</li>
     <li><strong>2025</strong> — ICML <span class="activity-role">(Top Reviewer)</span>, NeurIPS <span class="activity-role">(Top Reviewer)</span>, ICLR, AAAI, AISTATS <span class="activity-role">(Best Reviewer)</span></li>
   </ul>
 
