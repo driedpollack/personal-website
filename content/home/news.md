@@ -14,6 +14,10 @@ design:
 <div class="news-list">
   <div class="news-row">
     <span class="news-date">Oct 2026</span>
+    <span>Will serve as an <strong>Area Chair</strong> for <strong>ICML 2027</strong></span>
+  </div>
+  <div class="news-row">
+    <span class="news-date">Oct 2026</span>
     <span>Recognized as a <strong>Top Reviewer</strong> at <strong>NeurIPS 2026</strong></span>
   </div>
   <div class="news-row">
