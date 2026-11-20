@@ -32,16 +32,16 @@ design:
     <span class="news-date">Aug 2026</span>
     <span>Received the <strong>Best Paper Award</strong> at 2026 Korean Artificial Intelligence Association</span>
   </div>
-  <div class="news-row">
-    <span class="news-date">May 2026</span>
-    <span><a href="https://icml.cc/Conferences/2026/ProgramCommittee#gold">Recognized as a <strong>Gold Reviewer</strong> at <strong>ICML 2026</strong></a></span>
-  </div>  
 
   <details class="news-more">
     <summary>
       <span class="news-more-label">See more...</span>
       <span class="news-less-label">See less</span>
     </summary>
+    <div class="news-row">
+      <span class="news-date">May 2026</span>
+      <span><a href="https://icml.cc/Conferences/2026/ProgramCommittee#gold">Recognized as a <strong>Gold Reviewer</strong> at <strong>ICML 2026</strong></a></span>
+    </div>      
     <div class="news-more-list">
       <div class="news-row">
         <span class="news-date">May 2026</span>
